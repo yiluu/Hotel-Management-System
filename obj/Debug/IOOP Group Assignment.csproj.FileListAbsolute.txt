@@ -1,0 +1,33 @@
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\bin\Debug\IOOP Group Assignment.exe.config
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\bin\Debug\IOOP Group Assignment.exe
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\bin\Debug\IOOP Group Assignment.pdb
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP Group Assignment.csproj.AssemblyReference.cache
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.Properties.Resources.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP Group Assignment.csproj.GenerateResource.cache
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP Group Assignment.csproj.CoreCompileInputs.cache
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP Group Assignment.exe
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP Group Assignment.pdb
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.Customer.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.Manage_reservations.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.Rooms1.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.send_a_review.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.ChangeProfilePicturePage.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.AddCustomer.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.Booking.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.Checkout.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.Check_In.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.HK_IssueReport.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.HK_Supplies.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.HK_Schedule.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.ManageHousekeepingForm.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.ManageRoomsForm.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.DeleteCustomer.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.ManageAccountsForm.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.ManagerPage.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.UpdateProfile.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.ViewReportForm.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.Receptionist.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.LoginPage.resources
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\bin\Debug\GoodStayHotelDatabase.mdf
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\bin\Debug\GoodStayHotelDatabase_log.ldf
+C:\Users\zechn\source\repos\IOOP-Group-Assignment\IOOP Group Assignment\obj\Debug\IOOP_Group_Assignment.HousekeepingPage.resources
